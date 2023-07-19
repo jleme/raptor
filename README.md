@@ -1,5 +1,5 @@
 # raptor
-Raptor is a game inspiredby the old TRS-80 game Penetrator, that I played a lot when I was a kid:
+Raptor is a game inspired by the old TRS-80 game Penetrator, that I played a lot when I was a kid:
 - https://www.youtube.com/watch?v=1Ftkld6W3EI
 - https://en.wikipedia.org/wiki/Penetrator_(video_game)
 
